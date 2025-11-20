@@ -1,0 +1,25 @@
+{
+    "230005804378488835": {
+        "rank": "bronze",
+        "nivel": 3,
+        "vida_max": 30,
+        "vida_atual": 26,
+        "mana_max": 3,
+        "mana_atual": 3,
+        "coins": 80,
+        "inventory": {
+            "pele": 1
+        }
+    },
+    "1438814445760675971": {
+        "rank": "bronze",
+        "nivel": 1,
+        "vida_max": 10,
+        "vida_atual": 10,
+        "mana_max": 1,
+        "mana_atual": 1,
+        "xp": 100,
+        "inventory": {},
+        "coins": 5
+    }
+}

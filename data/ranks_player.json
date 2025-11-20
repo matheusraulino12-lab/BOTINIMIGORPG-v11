@@ -1,0 +1,41 @@
+{
+  "bronze": {
+    "1":  { "nivel": 1,  "hp": 10,   "qi_xp": 100,   "qi": 1,   "pericia": "1d4" },
+    "2":  { "nivel": 2,  "hp": 20,   "qi_xp": 200,   "qi": 2,   "pericia": "1d8" },
+    "3":  { "nivel": 3,  "hp": 30,   "qi_xp": 300,   "qi": 3,   "pericia": "1d4" },
+    "4":  { "nivel": 4,  "hp": 40,   "qi_xp": 400,   "qi": 4,   "pericia": "1d8" },
+    "5":  { "nivel": 5,  "hp": 50,   "qi_xp": 500,   "qi": 5,   "pericia": "1d4" }
+  },
+
+  "prata": {
+    "1":  { "nivel": 6,  "hp": 100,  "qi_xp": 1000,  "qi": 10,  "pericia": "1d8" },
+    "2":  { "nivel": 7,  "hp": 200,  "qi_xp": 2000,  "qi": 20,  "pericia": "1d4" },
+    "3":  { "nivel": 8,  "hp": 300,  "qi_xp": 3000,  "qi": 30,  "pericia": "1d8" },
+    "4":  { "nivel": 9,  "hp": 400,  "qi_xp": 4000,  "qi": 40,  "pericia": "1d4" },
+    "5":  { "nivel": 10, "hp": 500,  "qi_xp": 5000,  "qi": 50,  "pericia": "1d8" }
+  },
+
+  "ouro": {
+    "1":  { "nivel": 11, "hp": 1000, "qi_xp": 10000, "qi": 100, "pericia": "1d4" },
+    "2":  { "nivel": 12, "hp": 1300, "qi_xp": 12500, "qi": 125, "pericia": "1d8" },
+    "3":  { "nivel": 13, "hp": 1500, "qi_xp": 15000, "qi": 150, "pericia": "1d4" },
+    "4":  { "nivel": 14, "hp": 1800, "qi_xp": 17500, "qi": 175, "pericia": "1d8" },
+    "5":  { "nivel": 15, "hp": 2000, "qi_xp": 20000, "qi": 200, "pericia": "1d4" }
+  },
+
+  "ouro negro": {
+    "1":  { "nivel": 16, "hp": 3000, "qi_xp": 30000, "qi": 300, "pericia": "1d8" },
+    "2":  { "nivel": 17, "hp": 3500, "qi_xp": 35000, "qi": 350, "pericia": "1d4" },
+    "3":  { "nivel": 18, "hp": 4000, "qi_xp": 40000, "qi": 400, "pericia": "1d8" },
+    "4":  { "nivel": 19, "hp": 4500, "qi_xp": 45000, "qi": 450, "pericia": "1d4" },
+    "5":  { "nivel": 20, "hp": 5000, "qi_xp": 50000, "qi": 500, "pericia": "1d8" }
+  },
+
+  "lendário": {
+    "1":  { "nivel": 21, "hp": 6000,  "qi_xp": 60000,  "qi": 600,  "pericia": "1d4" },
+    "2":  { "nivel": 22, "hp": 7000,  "qi_xp": 70000,  "qi": 700,  "pericia": "1d8" },
+    "3":  { "nivel": 23, "hp": 8000,  "qi_xp": 80000,  "qi": 800,  "pericia": "1d4" },
+    "4":  { "nivel": 24, "hp": 9000,  "qi_xp": 90000,  "qi": 900,  "pericia": "1d8" },
+    "5":  { "nivel": 25, "hp": 10000, "qi_xp": 100000, "qi": 1000, "pericia": "1d4" }
+  }
+}

@@ -1,0 +1,81 @@
+{
+    "katana_fogo": {
+        "nome": "Katana de Fogo",
+        "slot": "mao_direita",
+        "dano": "2d12+15",
+        "elemento": "fogo",
+        "hp_bonus": 0,
+        "mana_bonus": 0,
+        "ca_bonus": 0,
+        "absorv": 0,
+        "forca_bonus": 3,
+        "destreza_bonus": 1,
+        "magia_embutida": null,
+        "charges_combate": 0
+    },
+
+    "grimorio_vento": {
+        "nome": "Grimório do Vento",
+        "slot": "mao_esquerda",
+        "dano": null,
+        "elemento": "vento",
+        "hp_bonus": 0,
+        "mana_bonus": 20,
+        "ca_bonus": 0,
+        "absorv": 0,
+        "sabedoria_bonus": 2,
+        "magia_embutida": "raio_ventania",
+        "charges_combate": 2
+    },
+
+    "elmo_aco": {
+        "nome": "Elmo de Aço",
+        "slot": "elmo",
+        "hp_bonus": 10,
+        "mana_bonus": 0,
+        "ca_bonus": 2,
+        "absorv": 1
+    },
+
+    "peitoral_draconico": {
+        "nome": "Peitoral Dracônico",
+        "slot": "peitoral",
+        "hp_bonus": 30,
+        "mana_bonus": 0,
+        "ca_bonus": 5,
+        "absorv": 3
+    },
+
+    "anel_luz": {
+        "nome": "Anel da Luz",
+        "slot": "anel",
+        "hp_bonus": 0,
+        "mana_bonus": 15,
+        "ca_bonus": 0,
+        "absorv": 0,
+        "magia_embutida": "cura_luminosa",
+        "charges_combate": 2
+    },
+    "espada_lunar": {
+        "nome": "Espada Lunar",
+        "slot": "mao_direita",
+        "dano": "2d8+6",
+        "elemento": "luz",
+        "hp_bonus": 0,
+        "mana_bonus": 0,
+        "ca_bonus": 1,
+        "absorv": 0,
+        "forca_bonus": 2,
+        "magia_embutida": "raio_lunar",
+        "charges_combate": 1
+    },
+    "bota_rapida": {
+        "nome": "Bota Rápida",
+        "slot": "botas",
+        "hp_bonus": 0,
+        "mana_bonus": 0,
+        "ca_bonus": 0,
+        "absorv": 0,
+        "destreza_bonus": 2
+    }
+}

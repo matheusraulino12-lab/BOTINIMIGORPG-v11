@@ -1,0 +1,7 @@
+{
+  "carneiro": {
+    "nome":"Carneiro",
+    "img":"https://i.pinimg.com/1200x/0a/35/93/0a3593df942cb3444d304b2e6e1a041a.jpg", 
+    "drops":[ {"item":"cascos","q":"1d4","chance":1.0}, {"item":"pele","q":"1","chance":0.7}, {"item":"esfera_bestial","q":"1","chance":0.01} ]
+  }
+}

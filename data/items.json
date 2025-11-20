@@ -1,0 +1,40 @@
+{
+    "pocao_vida_media": {
+        "nome": "Poção Média de Vida",
+        "tipo": "cura",
+        "cura": "3d8+10",
+        "preco_compra": 120,
+        "preco_venda": 60
+    },
+
+    "pocao_mana": {
+        "nome": "Poção de Mana",
+        "tipo": "mana",
+        "recupera": 20,
+        "preco_compra": 90,
+        "preco_venda": 45
+    },
+
+    "cascos": {
+        "nome": "Cascos de Carneiro",
+        "tipo": "craft",
+        "descricao": "Material bruto para criação.",
+        "preco_compra": 90,
+        "preco_venda": 45
+    },
+
+    "pele": {
+        "nome": "Pele Animal",
+        "tipo": "craft",
+        "preco_compra": 90,
+        "preco_venda": 45
+    },
+
+    "esfera_bestial": {
+        "nome": "Esfera Bestial",
+        "tipo": "raro",
+        "descricao": "Item raro de monstros.",
+        "preco_compra": 90,
+        "preco_venda": 45
+    }
+}

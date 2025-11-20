@@ -1,0 +1,64 @@
+{
+    "bola_fogo": {
+        "nome": "Bola de Fogo",
+        "elemento": "fogo",
+        "xp_gain": 10,
+        "rank": {
+            "1": { "dano": "2d8+4", "custo_qi": 8, "area": false },
+            "2": { "dano": "3d8+6", "custo_qi": 10, "area": false },
+            "3": { "dano": "4d8+8", "custo_qi": 14, "area": true },
+            "4": { "dano": "5d8+10", "custo_qi": 18, "area": true },
+            "5": { "dano": "6d8+12", "custo_qi": 22, "area": true }
+        }
+    },
+    "raio_ventania": {
+        "nome": "Raio Ventania",
+        "elemento": "vento",
+        "xp_gain": 10,
+        "rank": {
+            "1": { "dano": "2d6+3", "custo_qi": 6, "area": false },
+            "2": { "dano": "3d6+4", "custo_qi": 8, "area": false },
+            "3": { "dano": "4d6+6", "custo_qi": 9, "area": true },
+            "4": { "dano": "5d6+8", "custo_qi": 10, "area": true },
+            "5": { "dano": "6d6+10", "custo_qi": 14, "area": true }
+        }
+    },
+    "cura_luminosa": {
+        "nome": "Cura Luminosa",
+        "elemento": "luz",
+        "tipo": "cura",
+        "xp_gain": 10,
+        "rank": {
+            "1": { "cura": "2d8+5", "custo_qi": 8 },
+            "2": { "cura": "3d8+8", "custo_qi": 12 },
+            "3": { "cura": "4d8+10", "custo_qi": 16 },
+            "4": { "cura": "5d8+15", "custo_qi": 20 },
+            "5": { "cura": "6d8+20", "custo_qi": 24 }
+        }
+    },
+    "bola_gelo": {
+    "nome": "Bola de Gelo",
+    "elemento": "agua",
+    "xp_gain": 10,
+    "rank": {
+      "1": {"dano": "2d6+2", "custo_qi": 6, "area": false},
+      "2": {"dano": "3d6+3", "custo_qi": 9, "area": false},
+      "3": {"dano": "4d6+4", "custo_qi": 12, "area": true},
+      "4": {"dano": "5d6+6", "custo_qi": 16, "area": true},
+      "5": {"dano": "6d6+8", "custo_qi": 20, "area": true}
+    }
+  },
+  "tempestade_raios": {
+    "nome": "Tempestade de Raios",
+    "elemento": "raio",
+    "xp_gain": 10,
+    "rank": {
+      "1": {"dano": "2d8+3", "custo_qi": 8, "area": true},
+      "2": {"dano": "3d8+5", "custo_qi": 12, "area": true},
+      "3": {"dano": "4d8+7", "custo_qi": 16, "area": true},
+      "4": {"dano": "5d8+9", "custo_qi": 20, "area": true},
+      "5": {"dano": "6d8+12", "custo_qi": 25, "area": true}
+    }
+  }
+    
+}
