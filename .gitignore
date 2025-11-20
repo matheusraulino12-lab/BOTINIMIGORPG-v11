@@ -1,2 +1,9 @@
-env
 .env
+__pycache__/
+*.pyc
+.vscode/
+env/
+venv/
+.idea/
+.DS_Store
+rpg-discord-bot.zip
