@@ -7,8 +7,24 @@
         "mana_max": 3,
         "mana_atual": 3,
         "coins": 80,
-        "inventory": {
-            "pele": 1
+        "inventory": {},
+        "equip": {
+            "elmo": null,
+            "peitoral": null,
+            "luva": null,
+            "mao_direita": null,
+            "mao_esquerda": null,
+            "botas": "bota_rapida",
+            "amuleto": null,
+            "anel1": null,
+            "anel2": null,
+            "anel3": null,
+            "anel4": null
+        },
+        "ca_bonus": 0,
+        "absorv": 0,
+        "atributos": {
+            "destreza": 2
         }
     },
     "1438814445760675971": {

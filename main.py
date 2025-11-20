@@ -2,7 +2,8 @@ import discord
 from discord.ext import commands
 import asyncio
 import os
-
+from dotenv import load_dotenv
+load_dotenv()
 # =============== CONFIGURAÇÕES ===============
 
 TOKEN = os.getenv("DISCORD_TOKEN")
@@ -22,7 +23,7 @@ bot = commands.Bot(
 # Lista das COGS usadas no projeto
 COGS = [
     "cogs.help",
-    "cogs.combate",
+    "cogs.combate_turnos",
     "cogs.monster_admin",
     "cogs.player_admin",
     "cogs.item_admin",
