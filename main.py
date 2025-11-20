@@ -5,7 +5,7 @@ import os
 
 # =============== CONFIGURAÇÕES ===============
 
-TOKEN = "MTQ0MDQxNzc3NjI3NDUxMDA0NA.G1sFlo.WQ0AwnC3w1QpCSgRTrQo8P8RH4VhdnF4W6XSoI"  # <<< COLE SEU TOKEN AQUI
+TOKEN = os.getenv("DISCORD_TOKEN")
 
 INTENTS = discord.Intents.default()
 INTENTS.message_content = True
